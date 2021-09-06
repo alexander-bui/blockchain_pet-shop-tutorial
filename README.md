@@ -2,7 +2,7 @@
 Truffle Suite: Pet Shop Tutorial
 (https://www.trufflesuite.com/tutorial)
 
-Prequesites :
+Prerequisites :
 - Metamask
 - Truffle (npm install -g truffle)
 - NodeJS v8+
