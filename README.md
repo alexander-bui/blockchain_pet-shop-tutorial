@@ -9,7 +9,7 @@ Prequesites :
 
 Important commands
 -----
-truffle compile : Compiles smart contracts
-truffle migrate : Migrates contracts to the blockchain
-truffle test : Run TestAdoption.sol test case functions
-npm run dev : Run the dapp, will display to Browser
+- truffle compile : Compiles smart contracts
+- truffle migrate : Migrates contracts to the blockchain
+- truffle test : Run TestAdoption.sol test case functions
+- npm run dev : Run the dapp, will display to Browser
