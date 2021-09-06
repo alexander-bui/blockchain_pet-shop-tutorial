@@ -15,4 +15,4 @@ Important commands
 - truffle test : Run TestAdoption.sol test case functions
 - npm run dev : Run the dapp, will display to Browser
 
-![Alt text](pet-shop-tutorial/blob/main/dapp_preview.png?raw=true "Title")
+![Alt text](https://github.com/alexander-bui/pet-shop-tutorial/blob/main/dapp_preview.png?raw=true "Title")
